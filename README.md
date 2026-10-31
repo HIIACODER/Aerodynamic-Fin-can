@@ -1,5 +1,8 @@
 # Aerodynamic-Fin-can
 A simple aerodynamic fin can design! I 3d printed this on a bambu labs x2d, and built a test model out of PLA. Tested in openrocket, and will be printed in PA12-CF for my rocket later this year.
+
+The goal of this project was to create a fin can with some decently complex geometry that I can use for future rockets. One of the main features for this rocket was the fact that it has a rail button. For a few of my rockets, I was going from a smaller body tube on the bottom to a larger on top, which meant that the rail button to mount the rocket for launch had to be embedded in cardboard, instead of the sturdier plastic. To fix this, I added a protruding standoff, which should mitigate this problem. 
+
 The fin can has a standoff for a rail button, to help with the structural integrity of the cardboard tube
 <img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/b799d400-43f0-4aac-bad1-c45f98876e6e" />
 CAD:
